@@ -1,7 +1,7 @@
 # covidDataMining
 Data Mining course project - COVID-19: Impacts and Insights
 
-*Check out the full report and blog.*
+*Check out the detailed report and blog.*
 
 This project consists of three tasks - 
 
