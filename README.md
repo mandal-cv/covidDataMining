@@ -17,5 +17,5 @@ This task deals with projecting cases and deaths related to COVID using time-ser
 ## **Task 3**
 This deals with estimating levels of 'Anxious', 'Down', 'Interest', and 'Worry' based on the Pulse Survey data. To run the models, check out the python notebook *COVID_mental_health.ipynb*. 
 
-### *Data*
+### Data
 The data for each of the tasks is available under the respective directories. 
