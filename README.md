@@ -1,7 +1,7 @@
 # covidDataMining
 Data Mining course project - COVID-19: Impacts and Insights
 
-*Check out the detailed report and blog.*
+*Check out the ![detailed report](https://mandal-cv.github.io/dmreport/) and ![blog](https://maniratnammandal2.medium.com/covid-19-impacts-and-insights-efdcecfd43f).*
 
 This project consists of three tasks - 
 
